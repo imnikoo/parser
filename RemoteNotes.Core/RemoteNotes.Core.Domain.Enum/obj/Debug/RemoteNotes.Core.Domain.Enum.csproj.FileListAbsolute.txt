@@ -1,0 +1,12 @@
+C:\XRemoteNotes\src\RemoteNotes.Core\RemoteNotes.Core.Domain.Enum\bin\Debug\RemoteNotes.Core.Domain.Enum.dll
+C:\XRemoteNotes\src\RemoteNotes.Core\RemoteNotes.Core.Domain.Enum\bin\Debug\RemoteNotes.Core.Domain.Enum.pdb
+C:\XRemoteNotes\src\RemoteNotes.Core\RemoteNotes.Core.Domain.Enum\obj\Debug\RemoteNotes.Core.Domain.Enum.csproj.CoreCompileInputs.cache
+C:\XRemoteNotes\src\RemoteNotes.Core\RemoteNotes.Core.Domain.Enum\obj\Debug\RemoteNotes.Core.Domain.Enum.dll
+C:\XRemoteNotes\src\RemoteNotes.Core\RemoteNotes.Core.Domain.Enum\obj\Debug\RemoteNotes.Core.Domain.Enum.pdb
+C:\XRemoteNotes\src\RemoteNotes.Core\RemoteNotes.Core.Domain.Enum\obj\Debug\RemoteNotes.Core.Domain.Enum.csprojAssemblyReference.cache
+C:\University\DIploma2018\ProjectX\RemoteNotes.Core\RemoteNotes.Core.Domain.Enum\bin\Debug\RemoteNotes.Core.Domain.Enum.dll
+C:\University\DIploma2018\ProjectX\RemoteNotes.Core\RemoteNotes.Core.Domain.Enum\bin\Debug\RemoteNotes.Core.Domain.Enum.pdb
+C:\University\DIploma2018\ProjectX\RemoteNotes.Core\RemoteNotes.Core.Domain.Enum\obj\Debug\RemoteNotes.Core.Domain.Enum.csprojAssemblyReference.cache
+C:\University\DIploma2018\ProjectX\RemoteNotes.Core\RemoteNotes.Core.Domain.Enum\obj\Debug\RemoteNotes.Core.Domain.Enum.csproj.CoreCompileInputs.cache
+C:\University\DIploma2018\ProjectX\RemoteNotes.Core\RemoteNotes.Core.Domain.Enum\obj\Debug\RemoteNotes.Core.Domain.Enum.dll
+C:\University\DIploma2018\ProjectX\RemoteNotes.Core\RemoteNotes.Core.Domain.Enum\obj\Debug\RemoteNotes.Core.Domain.Enum.pdb

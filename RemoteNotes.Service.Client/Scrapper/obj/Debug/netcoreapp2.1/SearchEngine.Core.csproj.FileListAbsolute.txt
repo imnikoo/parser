@@ -1,0 +1,12 @@
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper\bin\Debug\netcoreapp2.1\SearchEngine.Core.deps.json
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper\bin\Debug\netcoreapp2.1\SearchEngine.Core.dll
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper\bin\Debug\netcoreapp2.1\SearchEngine.Core.pdb
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper\bin\Debug\netcoreapp2.1\SearchEngine.Utils.dll
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper\bin\Debug\netcoreapp2.1\SearchEngine.Utils.pdb
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper\obj\Debug\netcoreapp2.1\SearchEngine.Core.csprojAssemblyReference.cache
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper\obj\Debug\netcoreapp2.1\SearchEngine.Core.csproj.CoreCompileInputs.cache
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper\obj\Debug\netcoreapp2.1\SearchEngine.Core.AssemblyInfoInputs.cache
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper\obj\Debug\netcoreapp2.1\SearchEngine.Core.AssemblyInfo.cs
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper\obj\Debug\netcoreapp2.1\SearchEngine.Core.csproj.CopyComplete
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper\obj\Debug\netcoreapp2.1\SearchEngine.Core.dll
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper\obj\Debug\netcoreapp2.1\SearchEngine.Core.pdb

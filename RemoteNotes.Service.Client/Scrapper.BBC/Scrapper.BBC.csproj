@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Scrapper.Interface\Scrapper.Interface.csproj" />
+    <ProjectReference Include="..\Scrapper.Utils\Scrapper.Utils.csproj" />
+  </ItemGroup>
+
+</Project>

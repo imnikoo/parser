@@ -1,0 +1,914 @@
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.Wpf.csprojResolveAssemblyReference.cache
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Amber.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Blue.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Cyan.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.DeepOrange.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.DeepPurple.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Green.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Indigo.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.LightBlue.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.LightGreen.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Lime.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Orange.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Pink.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Purple.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Red.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Teal.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Yellow.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Named.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Named.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Named.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.Named.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.Named.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.Named.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.Named.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Named.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Named.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Named.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Named.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Named.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Named.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Named.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Named.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Named.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Named.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Named.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Named.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Named.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Named.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Named.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Named.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Named.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Named.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Named.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Named.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Named.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Named.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Named.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Named.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Named.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Named.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Named.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Named.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Named.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Named.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Named.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Named.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Named.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Named.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Named.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Named.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Named.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Named.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Named.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Named.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Named.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Named.Accent.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Named.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Named.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Primary.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Amber.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Blue.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.BlueGrey.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Brown.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Cyan.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.DeepOrange.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.DeepPurple.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Green.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Grey.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Indigo.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.LightBlue.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.LightGreen.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Lime.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Orange.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Pink.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Purple.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Red.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Teal.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Yellow.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors_MarkupCompile.cache
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.g.resources
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.Properties.Resources.resources
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.Wpf.csproj.GenerateResource.Cache
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\bin\Debug\MaterialDesignColors.dll
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\bin\Debug\MaterialDesignColors.pdb
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.dll
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.pdb
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\bin\Debug\MaterialDesignColors.dll
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\bin\Debug\MaterialDesignColors.pdb
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.Wpf.csprojResolveAssemblyReference.cache
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Amber.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Blue.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Cyan.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.DeepOrange.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.DeepPurple.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Green.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Indigo.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.LightBlue.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.LightGreen.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Lime.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Orange.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Pink.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Purple.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Red.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Teal.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Yellow.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Named.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Named.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Named.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.Named.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.Named.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.Named.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.Named.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Named.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Named.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Named.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Named.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Named.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Named.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Named.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Named.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Named.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Named.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Named.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Named.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Named.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Named.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Named.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Named.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Named.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Named.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Named.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Named.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Named.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Named.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Named.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Named.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Named.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Named.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Named.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Named.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Named.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Named.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Named.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Named.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Named.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Named.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Named.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Named.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Named.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Named.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Named.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Named.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Named.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Named.Accent.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Named.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Named.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Primary.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Amber.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Blue.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.BlueGrey.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Brown.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Cyan.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.DeepOrange.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.DeepPurple.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Green.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Grey.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Indigo.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.LightBlue.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.LightGreen.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Lime.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Orange.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Pink.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Purple.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Red.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Teal.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Yellow.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors_MarkupCompile.cache
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.g.resources
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.Properties.Resources.resources
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.Wpf.csproj.GenerateResource.Cache
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.dll
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.pdb
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\bin\Debug\MaterialDesignColors.dll
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\bin\Debug\MaterialDesignColors.pdb
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.Wpf.csprojResolveAssemblyReference.cache
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Amber.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Blue.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Cyan.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.DeepOrange.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.DeepPurple.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Green.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Indigo.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.LightBlue.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.LightGreen.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Lime.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Orange.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Pink.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Purple.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Red.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Teal.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Yellow.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Named.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Named.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Named.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.Named.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.Named.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.Named.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.Named.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Named.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Named.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Named.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Named.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Named.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Named.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Named.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Named.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Named.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Named.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Named.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Named.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Named.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Named.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Named.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Named.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Named.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Named.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Named.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Named.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Named.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Named.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Named.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Named.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Named.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Named.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Named.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Named.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Named.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Named.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Named.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Named.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Named.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Named.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Named.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Named.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Named.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Named.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Named.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Named.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Named.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Named.Accent.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Named.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Named.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Primary.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Amber.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Blue.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.BlueGrey.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Brown.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Cyan.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.DeepOrange.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.DeepPurple.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Green.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Grey.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Indigo.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.LightBlue.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.LightGreen.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Lime.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Orange.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Pink.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Purple.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Red.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Teal.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Yellow.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors_MarkupCompile.cache
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.g.resources
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.Properties.Resources.resources
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.Wpf.csproj.GenerateResource.Cache
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.dll
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\bin\Debug\MaterialDesignColors.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\bin\Debug\MaterialDesignColors.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.Wpf.csprojResolveAssemblyReference.cache
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Amber.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Blue.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Cyan.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.DeepOrange.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.DeepPurple.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Green.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Indigo.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.LightBlue.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.LightGreen.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Lime.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Orange.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Pink.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Purple.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Red.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Teal.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Yellow.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Named.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Named.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Named.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.Named.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.Named.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.Named.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.Named.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Named.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Named.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Named.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Named.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Named.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Named.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Named.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Named.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Named.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Named.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Named.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Named.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Named.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Named.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Named.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Named.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Named.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Named.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Named.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Named.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Named.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Named.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Named.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Named.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Named.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Named.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Named.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Named.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Named.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Named.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Named.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Named.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Named.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Named.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Named.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Named.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Named.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Named.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Named.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Named.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Named.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Named.Accent.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Named.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Named.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Primary.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Amber.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Blue.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.BlueGrey.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Brown.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Cyan.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.DeepOrange.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.DeepPurple.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Green.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Grey.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Indigo.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.LightBlue.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.LightGreen.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Lime.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Orange.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Pink.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Purple.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Red.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Teal.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Yellow.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors_MarkupCompile.cache
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.g.resources
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.Properties.Resources.resources
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.Wpf.csproj.GenerateResource.Cache
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.pdb
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\bin\Debug\MaterialDesignColors.dll
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\bin\Debug\MaterialDesignColors.pdb
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Amber.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Blue.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Cyan.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.DeepOrange.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.DeepPurple.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Green.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Indigo.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.LightBlue.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.LightGreen.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Lime.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Orange.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Pink.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Purple.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Red.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Teal.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Yellow.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Named.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Named.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Named.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.Named.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.Named.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.Named.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.Named.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Named.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Named.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Named.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Named.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Named.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Named.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Named.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Named.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Named.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Named.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Named.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Named.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Named.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Named.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Named.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Named.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Named.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Named.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Named.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Named.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Named.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Named.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Named.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Named.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Named.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Named.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Named.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Named.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Named.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Named.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Named.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Named.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Named.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Named.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Named.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Named.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Named.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Named.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Named.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Named.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Named.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Named.Accent.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Named.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Named.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Primary.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Amber.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Blue.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.BlueGrey.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Brown.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Cyan.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.DeepOrange.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.DeepPurple.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Green.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Grey.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Indigo.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.LightBlue.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.LightGreen.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Lime.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Orange.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Pink.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Purple.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Red.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Teal.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Yellow.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors_MarkupCompile.cache
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.g.resources
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.Properties.Resources.resources
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.Wpf.csproj.GenerateResource.Cache
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.dll
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.pdb
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.Wpf.csprojResolveAssemblyReference.cache
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.Wpf.csproj.CoreCompileInputs.cache
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\bin\Debug\MaterialDesignColors.dll
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\bin\Debug\MaterialDesignColors.pdb
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.Wpf.csprojResolveAssemblyReference.cache
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Amber.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Blue.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Cyan.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.DeepOrange.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.DeepPurple.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Green.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Indigo.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.LightBlue.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.LightGreen.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Lime.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Orange.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Pink.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Purple.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Red.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Teal.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Yellow.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Named.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Named.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Named.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.Named.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.Named.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.Named.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.Named.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Named.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Named.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Named.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Named.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Named.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Named.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Named.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Named.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Named.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Named.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Named.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Named.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Named.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Named.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Named.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Named.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Named.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Named.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Named.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Named.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Named.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Named.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Named.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Named.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Named.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Named.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Named.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Named.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Named.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Named.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Named.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Named.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Named.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Named.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Named.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Named.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Named.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Named.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Named.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Named.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Named.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Named.Accent.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Named.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Named.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Primary.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Amber.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Blue.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.BlueGrey.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Brown.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Cyan.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.DeepOrange.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.DeepPurple.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Green.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Grey.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Indigo.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.LightBlue.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.LightGreen.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Lime.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Orange.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Pink.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Purple.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Red.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Teal.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Yellow.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors_MarkupCompile.cache
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.g.resources
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.Properties.Resources.resources
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.Wpf.csproj.GenerateResource.Cache
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.Wpf.csproj.CoreCompileInputs.cache
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.dll
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.pdb

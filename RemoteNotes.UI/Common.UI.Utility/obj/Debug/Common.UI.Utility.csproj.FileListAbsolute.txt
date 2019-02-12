@@ -1,0 +1,12 @@
+C:\XNotes\src\Notes.UI\Notes.UI\Common.UI.Utility\bin\Debug\Common.UI.Utility.dll
+C:\XNotes\src\Notes.UI\Notes.UI\Common.UI.Utility\bin\Debug\Common.UI.Utility.pdb
+C:\XNotes\src\Notes.UI\Notes.UI\Common.UI.Utility\obj\Debug\Common.UI.Utility.dll
+C:\XNotes\src\Notes.UI\Notes.UI\Common.UI.Utility\obj\Debug\Common.UI.Utility.pdb
+C:\XNotes\src\Notes.UI\Notes.UI\Common.UI.Utility\obj\Debug\Common.UI.Utility.csprojResolveAssemblyReference.cache
+C:\XNotes\src\Notes.UI\Notes.UI\Common.UI.Utility\obj\Debug\Common.UI.Utility.csproj.CoreCompileInputs.cache
+C:\XRemoteNotes\src\RemoteNotes.UI\Common.UI.Utility\bin\Debug\Common.UI.Utility.dll
+C:\XRemoteNotes\src\RemoteNotes.UI\Common.UI.Utility\bin\Debug\Common.UI.Utility.pdb
+C:\XRemoteNotes\src\RemoteNotes.UI\Common.UI.Utility\obj\Debug\Common.UI.Utility.csprojResolveAssemblyReference.cache
+C:\XRemoteNotes\src\RemoteNotes.UI\Common.UI.Utility\obj\Debug\Common.UI.Utility.csproj.CoreCompileInputs.cache
+C:\XRemoteNotes\src\RemoteNotes.UI\Common.UI.Utility\obj\Debug\Common.UI.Utility.dll
+C:\XRemoteNotes\src\RemoteNotes.UI\Common.UI.Utility\obj\Debug\Common.UI.Utility.pdb

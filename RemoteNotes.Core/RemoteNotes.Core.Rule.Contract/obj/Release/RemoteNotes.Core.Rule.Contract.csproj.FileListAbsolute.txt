@@ -1,0 +1,9 @@
+C:\XRemoteNotes\src\RemoteNotes.Core\RemoteNotes.Core.Rule.Contract\bin\Release\RemoteNotes.Core.Rule.Contract.dll
+C:\XRemoteNotes\src\RemoteNotes.Core\RemoteNotes.Core.Rule.Contract\bin\Release\RemoteNotes.Core.Rule.Contract.pdb
+C:\XRemoteNotes\src\RemoteNotes.Core\RemoteNotes.Core.Rule.Contract\bin\Release\RemoteNotes.Core.Domain.Enum.dll
+C:\XRemoteNotes\src\RemoteNotes.Core\RemoteNotes.Core.Rule.Contract\bin\Release\RemoteNotes.Core.Domain.Enum.pdb
+C:\XRemoteNotes\src\RemoteNotes.Core\RemoteNotes.Core.Rule.Contract\obj\Release\RemoteNotes.Core.Rule.Contract.csproj.CoreCompileInputs.cache
+C:\XRemoteNotes\src\RemoteNotes.Core\RemoteNotes.Core.Rule.Contract\obj\Release\RemoteNotes.Core.Rule.Contract.dll
+C:\XRemoteNotes\src\RemoteNotes.Core\RemoteNotes.Core.Rule.Contract\obj\Release\RemoteNotes.Core.Rule.Contract.pdb
+C:\XRemoteNotes\src\RemoteNotes.Core\RemoteNotes.Core.Rule.Contract\obj\Release\RemoteNotes.Core.Rule.Contract.csproj.CopyComplete
+C:\XRemoteNotes\src\RemoteNotes.Core\RemoteNotes.Core.Rule.Contract\obj\Release\RemoteNotes.Core.Rule.Contract.csprojAssemblyReference.cache

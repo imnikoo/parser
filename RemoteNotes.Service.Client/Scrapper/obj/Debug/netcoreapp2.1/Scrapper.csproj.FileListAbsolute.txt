@@ -1,0 +1,16 @@
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper\bin\Debug\netcoreapp2.1\Scrapper.deps.json
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper\bin\Debug\netcoreapp2.1\Scrapper.dll
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper\bin\Debug\netcoreapp2.1\Scrapper.pdb
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper\obj\Debug\netcoreapp2.1\Scrapper.csprojAssemblyReference.cache
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper\obj\Debug\netcoreapp2.1\Scrapper.csproj.CoreCompileInputs.cache
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper\obj\Debug\netcoreapp2.1\Scrapper.AssemblyInfoInputs.cache
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper\obj\Debug\netcoreapp2.1\Scrapper.AssemblyInfo.cs
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper\obj\Debug\netcoreapp2.1\Scrapper.dll
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper\obj\Debug\netcoreapp2.1\Scrapper.pdb
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper\bin\Debug\netcoreapp2.1\Scrapper.Interface.dll
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper\bin\Debug\netcoreapp2.1\Scrapper.Interface.pdb
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper\obj\Debug\netcoreapp2.1\Scrapper.csproj.CopyComplete
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper\bin\Debug\netcoreapp2.1\Scrapper.Utils.dll
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper\bin\Debug\netcoreapp2.1\Scrapper.Utils.pdb
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper\bin\Debug\netcoreapp2.1\Scrapper.BBC.dll
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper\bin\Debug\netcoreapp2.1\Scrapper.BBC.pdb

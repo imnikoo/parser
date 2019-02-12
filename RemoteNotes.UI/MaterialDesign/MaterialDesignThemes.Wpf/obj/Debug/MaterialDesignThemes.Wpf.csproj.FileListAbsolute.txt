@@ -1,0 +1,308 @@
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.csprojResolveAssemblyReference.cache
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.GridSplitter.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Label.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ScrollBar.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ScrollViewer.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Shadows.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Slider.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Hyperlink.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Dark.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Light.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.RadioButton.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.CheckBox.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolBarTray.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TextBlock.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Font.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf_MarkupCompile.cache
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf_MarkupCompile.lref
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\bin\Debug\MaterialDesignColors.dll
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\bin\Debug\MaterialDesignColors.pdb
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\Generic.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Calendar.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Card.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Clock.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ComboBox.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DataGrid.ComboBox.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DataGrid.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DatePicker.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Expander.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Menu.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.PasswordBox.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.PopupBox.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ProgressBar.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.RatingBar.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TextBox.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Defaults.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Button.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TimePicker.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToggleButton.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ListBox.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolBar.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolTip.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TreeView.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ValidationErrorTemplate.baml
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.g.resources
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.Properties.Resources.resources
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.csproj.GenerateResource.Cache
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.dll
+E:\Библиотека\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\bin\Debug\MaterialDesignColors.dll
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\bin\Debug\MaterialDesignColors.pdb
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.csprojResolveAssemblyReference.cache
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.GridSplitter.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Label.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ScrollBar.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ScrollViewer.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Shadows.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Slider.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Hyperlink.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Dark.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Light.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.RadioButton.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.CheckBox.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolBarTray.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TextBlock.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Font.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf_MarkupCompile.cache
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf_MarkupCompile.lref
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\Generic.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Calendar.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Card.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Clock.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ComboBox.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DataGrid.ComboBox.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DataGrid.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DatePicker.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Expander.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Menu.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.PasswordBox.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.PopupBox.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ProgressBar.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.RatingBar.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TextBox.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Defaults.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Button.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TimePicker.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToggleButton.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ListBox.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolBar.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolTip.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TreeView.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ValidationErrorTemplate.baml
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.g.resources
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.Properties.Resources.resources
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.csproj.GenerateResource.Cache
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.dll
+E:\Доработка\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\bin\Debug\MaterialDesignColors.dll
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\bin\Debug\MaterialDesignColors.pdb
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.csprojResolveAssemblyReference.cache
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.GridSplitter.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Label.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ScrollBar.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ScrollViewer.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Shadows.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Slider.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Hyperlink.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Dark.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Light.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.RadioButton.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.CheckBox.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolBarTray.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TextBlock.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Font.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf_MarkupCompile.cache
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf_MarkupCompile.lref
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\Generic.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Calendar.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Card.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Clock.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ComboBox.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DataGrid.ComboBox.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DataGrid.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DatePicker.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Expander.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Menu.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.PasswordBox.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.PopupBox.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ProgressBar.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.RatingBar.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TextBox.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Defaults.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Button.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TimePicker.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToggleButton.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ListBox.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolBar.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolTip.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TreeView.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ValidationErrorTemplate.baml
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.g.resources
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.Properties.Resources.resources
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.csproj.GenerateResource.Cache
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\dev\Desktop\Диплом\Library\LibraryManagementSystem-master\LibraryManagementSystem-master\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\bin\Debug\MaterialDesignColors.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\bin\Debug\MaterialDesignColors.pdb
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.csprojResolveAssemblyReference.cache
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.GridSplitter.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Label.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ScrollBar.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ScrollViewer.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Shadows.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Slider.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Hyperlink.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Dark.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Light.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.RadioButton.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.CheckBox.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolBarTray.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TextBlock.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Font.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf_MarkupCompile.cache
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf_MarkupCompile.lref
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\Generic.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Calendar.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Card.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Clock.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ComboBox.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DataGrid.ComboBox.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DataGrid.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DatePicker.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Expander.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Menu.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.PasswordBox.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.PopupBox.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ProgressBar.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.RatingBar.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TextBox.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Defaults.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Button.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TimePicker.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToggleButton.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ListBox.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolBar.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolTip.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TreeView.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ValidationErrorTemplate.baml
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.g.resources
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.Properties.Resources.resources
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.csproj.GenerateResource.Cache
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\dev\Documents\Visual Studio 2015\Projects\Library.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.pdb
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\bin\Debug\MaterialDesignColors.dll
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\bin\Debug\MaterialDesignColors.pdb
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.csprojResolveAssemblyReference.cache
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.GridSplitter.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Label.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ScrollBar.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ScrollViewer.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Shadows.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Slider.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Hyperlink.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Dark.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Light.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.RadioButton.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.CheckBox.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolBarTray.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TextBlock.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Font.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf_MarkupCompile.cache
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf_MarkupCompile.lref
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\Generic.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Calendar.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Card.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Clock.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ComboBox.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DataGrid.ComboBox.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DataGrid.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DatePicker.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Expander.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Menu.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.PasswordBox.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.PopupBox.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ProgressBar.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.RatingBar.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TextBox.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Defaults.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Button.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TimePicker.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToggleButton.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ListBox.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolBar.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolTip.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TreeView.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ValidationErrorTemplate.baml
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.g.resources
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.Properties.Resources.resources
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.csproj.GenerateResource.Cache
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.dll
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.pdb
+C:\XNotes\src\Notes.UI\Notes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.csproj.CoreCompileInputs.cache
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\bin\Debug\MaterialDesignColors.dll
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\bin\Debug\MaterialDesignColors.pdb
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.csprojResolveAssemblyReference.cache
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.GridSplitter.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Label.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ScrollBar.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ScrollViewer.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Shadows.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Slider.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Hyperlink.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Dark.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Light.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.RadioButton.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.CheckBox.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolBarTray.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TextBlock.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Font.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf_MarkupCompile.cache
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf_MarkupCompile.lref
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\Generic.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Calendar.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Card.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Clock.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ComboBox.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DataGrid.ComboBox.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DataGrid.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DatePicker.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Expander.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Menu.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.PasswordBox.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.PopupBox.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ProgressBar.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.RatingBar.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TextBox.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Defaults.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Button.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TimePicker.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToggleButton.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ListBox.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolBar.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolTip.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TreeView.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ValidationErrorTemplate.baml
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.g.resources
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.Properties.Resources.resources
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.csproj.GenerateResource.Cache
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.csproj.CoreCompileInputs.cache
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.dll
+C:\XRemoteNotes\src\RemoteNotes.UI\MaterialDesign\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.pdb

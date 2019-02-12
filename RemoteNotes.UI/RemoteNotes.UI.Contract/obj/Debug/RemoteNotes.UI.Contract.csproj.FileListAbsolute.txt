@@ -1,0 +1,6 @@
+C:\XRemoteNotes\src\RemoteNotes.UI\RemoteNotes.UI.Contract\bin\Debug\RemoteNotes.UI.Contract.dll
+C:\XRemoteNotes\src\RemoteNotes.UI\RemoteNotes.UI.Contract\bin\Debug\RemoteNotes.UI.Contract.pdb
+C:\XRemoteNotes\src\RemoteNotes.UI\RemoteNotes.UI.Contract\obj\Debug\RemoteNotes.UI.Contract.csprojResolveAssemblyReference.cache
+C:\XRemoteNotes\src\RemoteNotes.UI\RemoteNotes.UI.Contract\obj\Debug\RemoteNotes.UI.Contract.csproj.CoreCompileInputs.cache
+C:\XRemoteNotes\src\RemoteNotes.UI\RemoteNotes.UI.Contract\obj\Debug\RemoteNotes.UI.Contract.dll
+C:\XRemoteNotes\src\RemoteNotes.UI\RemoteNotes.UI.Contract\obj\Debug\RemoteNotes.UI.Contract.pdb

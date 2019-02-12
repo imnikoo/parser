@@ -1,0 +1,11 @@
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.DTO\bin\Debug\RemoteNotes.Service.DTO.dll
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.DTO\bin\Debug\RemoteNotes.Service.DTO.pdb
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.DTO\obj\Debug\RemoteNotes.Service.DTO.csproj.CoreCompileInputs.cache
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.DTO\obj\Debug\RemoteNotes.Service.DTO.dll
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.DTO\obj\Debug\RemoteNotes.Service.DTO.pdb
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service\RemoteNotes.Service.DTO\bin\Debug\RemoteNotes.Service.DTO.dll
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service\RemoteNotes.Service.DTO\bin\Debug\RemoteNotes.Service.DTO.pdb
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service\RemoteNotes.Service.DTO\obj\Debug\RemoteNotes.Service.DTO.csprojAssemblyReference.cache
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service\RemoteNotes.Service.DTO\obj\Debug\RemoteNotes.Service.DTO.csproj.CoreCompileInputs.cache
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service\RemoteNotes.Service.DTO\obj\Debug\RemoteNotes.Service.DTO.dll
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service\RemoteNotes.Service.DTO\obj\Debug\RemoteNotes.Service.DTO.pdb

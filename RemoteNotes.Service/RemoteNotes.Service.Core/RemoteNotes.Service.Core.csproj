@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\log4net\netstandard\log4net\log4net.csproj" />
+    <ProjectReference Include="..\..\RemoteNotes.Core\RemoteNotes.Core.BLL.Contract\RemoteNotes.Core.BLL.Contract.csproj" />
+    <ProjectReference Include="..\..\RemoteNotes.Core\RemoteNotes.Core.BLL\RemoteNotes.Core.BLL.csproj" />
+    <ProjectReference Include="..\..\RemoteNotes.Core\RemoteNotes.Core.Domain\RemoteNotes.Core.Domain.csproj" />
+    <ProjectReference Include="..\..\RemoteNotes.DAL\Common.DAL.Contract\Common.DAL.Contract.csproj" />
+    <ProjectReference Include="..\..\RemoteNotes.DAL\RemoteNotes.DAL.MySql\RemoteNotes.DAL.MySql.csproj" />
+    <ProjectReference Include="..\RemoteNotes.Service.DTO.Core\RemoteNotes.Service.DTO.Core.csproj" />
+    <ProjectReference Include="..\RemoteNotes.Service.DTO.Transform.Core\RemoteNotes.Service.DTO.Transform.Core.csproj" />
+    <ProjectReference Include="..\RemoteNotes.Service.DTO\RemoteNotes.Service.DTO.csproj" />
+  </ItemGroup>
+
+</Project>

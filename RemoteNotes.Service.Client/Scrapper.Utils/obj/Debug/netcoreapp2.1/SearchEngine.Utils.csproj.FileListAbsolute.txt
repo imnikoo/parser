@@ -1,0 +1,9 @@
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper.Utils\bin\Debug\netcoreapp2.1\SearchEngine.Utils.deps.json
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper.Utils\bin\Debug\netcoreapp2.1\SearchEngine.Utils.dll
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper.Utils\bin\Debug\netcoreapp2.1\SearchEngine.Utils.pdb
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper.Utils\obj\Debug\netcoreapp2.1\SearchEngine.Utils.csprojAssemblyReference.cache
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper.Utils\obj\Debug\netcoreapp2.1\SearchEngine.Utils.csproj.CoreCompileInputs.cache
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper.Utils\obj\Debug\netcoreapp2.1\SearchEngine.Utils.AssemblyInfoInputs.cache
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper.Utils\obj\Debug\netcoreapp2.1\SearchEngine.Utils.AssemblyInfo.cs
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper.Utils\obj\Debug\netcoreapp2.1\SearchEngine.Utils.dll
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\Scrapper.Utils\obj\Debug\netcoreapp2.1\SearchEngine.Utils.pdb

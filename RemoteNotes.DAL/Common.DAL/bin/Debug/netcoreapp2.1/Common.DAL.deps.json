@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Common.DAL/1.0.0": {
+        "dependencies": {
+          "Common.DAL.Contract": "1.0.0",
+          "Common.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Common.DAL.dll": {}
+        }
+      },
+      "Common.DAL.Contract/1.0.0": {
+        "runtime": {
+          "Common.DAL.Contract.dll": {}
+        }
+      },
+      "Common.Domain/1.0.0": {
+        "runtime": {
+          "Common.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Common.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Common.DAL.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Common.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

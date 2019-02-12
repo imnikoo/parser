@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.0.12" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\RemoteNotes.Core\Common.Domain\Common.Domain.csproj" />
+    <ProjectReference Include="..\..\RemoteNotes.Core\RemoteNotes.Core.Domain\RemoteNotes.Core.Domain.csproj" />
+    <ProjectReference Include="..\Common.DAL.Contract\Common.DAL.Contract.csproj" />
+    <ProjectReference Include="..\Common.DAL\Common.DAL.csproj" />
+    <ProjectReference Include="..\RemoteNotes.DAL.Contract\RemoteNotes.DAL.Contract.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="nunit.framework">
+      <HintPath>..\..\..\..\Users\Administrator\.nuget\packages\nunit\3.9.0\lib\netstandard1.6\nunit.framework.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

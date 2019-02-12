@@ -1,0 +1,17 @@
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.DTO.Core\bin\Debug\netcoreapp2.1\RemoteNotes.Service.DTO.Core.deps.json
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.DTO.Core\bin\Debug\netcoreapp2.1\RemoteNotes.Service.DTO.Core.dll
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.DTO.Core\bin\Debug\netcoreapp2.1\RemoteNotes.Service.DTO.Core.pdb
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.DTO.Core\obj\Debug\netcoreapp2.1\RemoteNotes.Service.DTO.Core.csproj.CoreCompileInputs.cache
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.DTO.Core\obj\Debug\netcoreapp2.1\RemoteNotes.Service.DTO.Core.AssemblyInfoInputs.cache
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.DTO.Core\obj\Debug\netcoreapp2.1\RemoteNotes.Service.DTO.Core.AssemblyInfo.cs
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.DTO.Core\obj\Debug\netcoreapp2.1\RemoteNotes.Service.DTO.Core.dll
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.DTO.Core\obj\Debug\netcoreapp2.1\RemoteNotes.Service.DTO.Core.pdb
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service\RemoteNotes.Service.DTO.Core\bin\Debug\netcoreapp2.1\RemoteNotes.Service.DTO.Core.deps.json
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service\RemoteNotes.Service.DTO.Core\bin\Debug\netcoreapp2.1\RemoteNotes.Service.DTO.Core.dll
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service\RemoteNotes.Service.DTO.Core\bin\Debug\netcoreapp2.1\RemoteNotes.Service.DTO.Core.pdb
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service\RemoteNotes.Service.DTO.Core\obj\Debug\netcoreapp2.1\RemoteNotes.Service.DTO.Core.csprojAssemblyReference.cache
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service\RemoteNotes.Service.DTO.Core\obj\Debug\netcoreapp2.1\RemoteNotes.Service.DTO.Core.csproj.CoreCompileInputs.cache
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service\RemoteNotes.Service.DTO.Core\obj\Debug\netcoreapp2.1\RemoteNotes.Service.DTO.Core.AssemblyInfoInputs.cache
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service\RemoteNotes.Service.DTO.Core\obj\Debug\netcoreapp2.1\RemoteNotes.Service.DTO.Core.AssemblyInfo.cs
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service\RemoteNotes.Service.DTO.Core\obj\Debug\netcoreapp2.1\RemoteNotes.Service.DTO.Core.dll
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service\RemoteNotes.Service.DTO.Core\obj\Debug\netcoreapp2.1\RemoteNotes.Service.DTO.Core.pdb

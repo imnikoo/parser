@@ -1,0 +1,16 @@
+C:\XRemoteNotes\src\log4net\netstandard\log4net\bin\Debug\netstandard2.0\log4net.deps.json
+C:\XRemoteNotes\src\log4net\netstandard\log4net\bin\Debug\netstandard2.0\log4net.dll
+C:\XRemoteNotes\src\log4net\netstandard\log4net\bin\Debug\netstandard2.0\log4net.pdb
+C:\XRemoteNotes\src\log4net\netstandard\log4net\obj\Debug\netstandard2.0\log4net.csproj.CoreCompileInputs.cache
+C:\XRemoteNotes\src\log4net\netstandard\log4net\obj\Debug\netstandard2.0\log4net.AssemblyInfoInputs.cache
+C:\XRemoteNotes\src\log4net\netstandard\log4net\obj\Debug\netstandard2.0\log4net.dll
+C:\XRemoteNotes\src\log4net\netstandard\log4net\obj\Debug\netstandard2.0\log4net.pdb
+C:\XRemoteNotes\src\log4net\netstandard\log4net\obj\Debug\netstandard2.0\log4net.csprojAssemblyReference.cache
+C:\University\DIploma2018\ProjectX\log4net\netstandard\log4net\bin\Debug\netstandard2.0\log4net.deps.json
+C:\University\DIploma2018\ProjectX\log4net\netstandard\log4net\bin\Debug\netstandard2.0\log4net.dll
+C:\University\DIploma2018\ProjectX\log4net\netstandard\log4net\bin\Debug\netstandard2.0\log4net.pdb
+C:\University\DIploma2018\ProjectX\log4net\netstandard\log4net\obj\Debug\netstandard2.0\log4net.csprojAssemblyReference.cache
+C:\University\DIploma2018\ProjectX\log4net\netstandard\log4net\obj\Debug\netstandard2.0\log4net.csproj.CoreCompileInputs.cache
+C:\University\DIploma2018\ProjectX\log4net\netstandard\log4net\obj\Debug\netstandard2.0\log4net.AssemblyInfoInputs.cache
+C:\University\DIploma2018\ProjectX\log4net\netstandard\log4net\obj\Debug\netstandard2.0\log4net.dll
+C:\University\DIploma2018\ProjectX\log4net\netstandard\log4net\obj\Debug\netstandard2.0\log4net.pdb

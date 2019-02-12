@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\RemoteNotes.Core\RemoteNotes.Core.Domain\RemoteNotes.Core.Domain.csproj" />
+    <ProjectReference Include="..\RemoteNotes.Service.DTO\RemoteNotes.Service.DTO.csproj" />
+  </ItemGroup>
+
+</Project>

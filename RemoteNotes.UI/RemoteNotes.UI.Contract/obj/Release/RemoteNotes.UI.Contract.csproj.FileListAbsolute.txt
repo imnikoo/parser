@@ -1,0 +1,5 @@
+C:\XRemoteNotes\src\RemoteNotes.UI\RemoteNotes.UI.Contract\bin\Release\RemoteNotes.UI.Contract.dll
+C:\XRemoteNotes\src\RemoteNotes.UI\RemoteNotes.UI.Contract\bin\Release\RemoteNotes.UI.Contract.pdb
+C:\XRemoteNotes\src\RemoteNotes.UI\RemoteNotes.UI.Contract\obj\Release\RemoteNotes.UI.Contract.csproj.CoreCompileInputs.cache
+C:\XRemoteNotes\src\RemoteNotes.UI\RemoteNotes.UI.Contract\obj\Release\RemoteNotes.UI.Contract.dll
+C:\XRemoteNotes\src\RemoteNotes.UI\RemoteNotes.UI.Contract\obj\Release\RemoteNotes.UI.Contract.pdb

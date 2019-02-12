@@ -1,0 +1,5 @@
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.DTO\bin\Release\RemoteNotes.Service.DTO.dll
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.DTO\bin\Release\RemoteNotes.Service.DTO.pdb
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.DTO\obj\Release\RemoteNotes.Service.DTO.csproj.CoreCompileInputs.cache
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.DTO\obj\Release\RemoteNotes.Service.DTO.dll
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.DTO\obj\Release\RemoteNotes.Service.DTO.pdb

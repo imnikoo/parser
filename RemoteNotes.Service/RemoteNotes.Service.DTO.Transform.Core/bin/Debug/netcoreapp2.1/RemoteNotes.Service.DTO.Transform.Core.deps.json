@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "RemoteNotes.Service.DTO.Transform.Core/1.0.0": {
+        "dependencies": {
+          "RemoteNotes.Core.Domain": "1.0.0",
+          "RemoteNotes.Service.DTO": "1.0.0"
+        },
+        "runtime": {
+          "RemoteNotes.Service.DTO.Transform.Core.dll": {}
+        }
+      },
+      "Common.Domain/1.0.0": {
+        "runtime": {
+          "Common.Domain.dll": {}
+        }
+      },
+      "RemoteNotes.Core.Domain/1.0.0": {
+        "dependencies": {
+          "Common.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RemoteNotes.Core.Domain.dll": {}
+        }
+      },
+      "RemoteNotes.Service.DTO/1.0.0": {
+        "runtime": {
+          "RemoteNotes.Service.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RemoteNotes.Service.DTO.Transform.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Common.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RemoteNotes.Core.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RemoteNotes.Service.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

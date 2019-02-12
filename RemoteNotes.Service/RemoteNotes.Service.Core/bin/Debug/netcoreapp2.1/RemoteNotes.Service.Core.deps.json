@@ -1,0 +1,339 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "16774654eed3b906653d3de8b67e4a0d6c793190"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "RemoteNotes.Service.Core/1.0.0": {
+        "dependencies": {
+          "Common.DAL.Contract": "1.0.0",
+          "Microsoft.NETCore.App": "2.1.0",
+          "RemoteNotes.Core.BLL": "1.0.0",
+          "RemoteNotes.Core.BLL.Contract": "1.0.0",
+          "RemoteNotes.Core.Domain": "1.0.0",
+          "RemoteNotes.DAL.MySql": "1.0.0",
+          "RemoteNotes.Service.DTO": "1.0.0",
+          "RemoteNotes.Service.DTO.Core": "1.0.0",
+          "RemoteNotes.Service.DTO.Transform.Core": "1.0.0",
+          "log4net": "2.0.9"
+        },
+        "runtime": {
+          "RemoteNotes.Service.Core.dll": {}
+        }
+      },
+      "Google.Protobuf/3.5.1": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Google.Protobuf.dll": {
+            "assemblyVersion": "3.5.1.0",
+            "fileVersion": "3.5.1.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.App/2.1.0": {
+        "dependencies": {
+          "Microsoft.NETCore.DotNetHostPolicy": "2.1.0",
+          "Microsoft.NETCore.Platforms": "2.1.0",
+          "Microsoft.NETCore.Targets": "2.1.0",
+          "NETStandard.Library": "2.0.3"
+        }
+      },
+      "Microsoft.NETCore.DotNetAppHost/2.1.0": {},
+      "Microsoft.NETCore.DotNetHostPolicy/2.1.0": {
+        "dependencies": {
+          "Microsoft.NETCore.DotNetHostResolver": "2.1.0"
+        }
+      },
+      "Microsoft.NETCore.DotNetHostResolver/2.1.0": {
+        "dependencies": {
+          "Microsoft.NETCore.DotNetAppHost": "2.1.0"
+        }
+      },
+      "Microsoft.NETCore.Platforms/2.1.0": {},
+      "Microsoft.NETCore.Targets/2.1.0": {},
+      "MySql.Data/8.0.12": {
+        "dependencies": {
+          "Google.Protobuf": "3.5.1",
+          "System.Configuration.ConfigurationManager": "4.4.1"
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/MySql.Data.dll": {
+            "assemblyVersion": "8.0.12.0",
+            "fileVersion": "8.0.12.0"
+          }
+        }
+      },
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "2.1.0"
+        }
+      },
+      "System.Configuration.ConfigurationManager/4.4.1": {
+        "dependencies": {
+          "System.Security.Cryptography.ProtectedData": "4.4.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Configuration.ConfigurationManager.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.25921.2"
+          }
+        }
+      },
+      "System.Security.Cryptography.ProtectedData/4.4.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll": {
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.6.25519.3"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.6.25519.3"
+          }
+        }
+      },
+      "Common.DAL/1.0.0": {
+        "dependencies": {
+          "Common.DAL.Contract": "1.0.0",
+          "Common.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Common.DAL.dll": {}
+        }
+      },
+      "Common.DAL.Contract/1.0.0": {
+        "runtime": {
+          "Common.DAL.Contract.dll": {}
+        }
+      },
+      "Common.Domain/1.0.0": {
+        "runtime": {
+          "Common.Domain.dll": {}
+        }
+      },
+      "log4net/2.0.9": {
+        "runtime": {
+          "log4net.dll": {}
+        }
+      },
+      "RemoteNotes.Core.BLL/1.0.0": {
+        "dependencies": {
+          "Common.DAL.Contract": "1.0.0",
+          "RemoteNotes.Core.BLL.Contract": "1.0.0",
+          "RemoteNotes.DAL.Contract": "1.0.0"
+        },
+        "runtime": {
+          "RemoteNotes.Core.BLL.dll": {}
+        }
+      },
+      "RemoteNotes.Core.BLL.Contract/1.0.0": {
+        "dependencies": {
+          "RemoteNotes.Core.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RemoteNotes.Core.BLL.Contract.dll": {}
+        }
+      },
+      "RemoteNotes.Core.Domain/1.0.0": {
+        "dependencies": {
+          "Common.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RemoteNotes.Core.Domain.dll": {}
+        }
+      },
+      "RemoteNotes.DAL.Contract/1.0.0": {
+        "dependencies": {
+          "Common.DAL.Contract": "1.0.0",
+          "RemoteNotes.Core.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RemoteNotes.DAL.Contract.dll": {}
+        }
+      },
+      "RemoteNotes.DAL.MySql/1.0.0": {
+        "dependencies": {
+          "Common.DAL": "1.0.0",
+          "Common.DAL.Contract": "1.0.0",
+          "Common.Domain": "1.0.0",
+          "MySql.Data": "8.0.12",
+          "RemoteNotes.Core.Domain": "1.0.0",
+          "RemoteNotes.DAL.Contract": "1.0.0"
+        },
+        "runtime": {
+          "RemoteNotes.DAL.MySql.dll": {}
+        }
+      },
+      "RemoteNotes.Service.DTO/1.0.0": {
+        "runtime": {
+          "RemoteNotes.Service.DTO.dll": {}
+        }
+      },
+      "RemoteNotes.Service.DTO.Core/1.0.0": {
+        "runtime": {
+          "RemoteNotes.Service.DTO.Core.dll": {}
+        }
+      },
+      "RemoteNotes.Service.DTO.Transform.Core/1.0.0": {
+        "dependencies": {
+          "RemoteNotes.Core.Domain": "1.0.0",
+          "RemoteNotes.Service.DTO": "1.0.0"
+        },
+        "runtime": {
+          "RemoteNotes.Service.DTO.Transform.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RemoteNotes.Service.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Google.Protobuf/3.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f2k1VNaB9bfvEsvARzzEL1TZiIpL33KKK3JMH7UANlPlJVptuvsk4qpBZEnz0pORWZOdUHlVwMQuUzFqjJYCxA==",
+      "path": "google.protobuf/3.5.1",
+      "hashPath": "google.protobuf.3.5.1.nupkg.sha512"
+    },
+    "Microsoft.NETCore.App/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AvT774nTFgU8cYcGO9j1EMwuayKslxqYTurg32HGpWa2hEYNuW2+XgYVVNcZe6Ndbr84QX6fwaOZfd5n+1m2OA==",
+      "path": "microsoft.netcore.app/2.1.0",
+      "hashPath": "microsoft.netcore.app.2.1.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.DotNetAppHost/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f/47I60Wg3SrveTvnecCQhCZCAMYlUujWF15EQ/AZTqF/54qeEJjbCIAxKcZI8ToUYzSg6JdfrHggsgjCyCE9Q==",
+      "path": "microsoft.netcore.dotnetapphost/2.1.0",
+      "hashPath": "microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.DotNetHostPolicy/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-p50yZYKzhH64lmArJgoKjtvsNehECa+/sAuOQzZh5uDNBTbRKxjN8IXP1e517xdVsgrFcSNxSEVDKZIOWVjGcQ==",
+      "path": "microsoft.netcore.dotnethostpolicy/2.1.0",
+      "hashPath": "microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.DotNetHostResolver/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fS9D8a+y55n6mHMbNqgHXaPGkjmpVH9h97OyrBxsCuo3Z8aQaFMJ5xIfmzji2ntUd/3truhMbSgSfIelHOkQpg==",
+      "path": "microsoft.netcore.dotnethostresolver/2.1.0",
+      "hashPath": "microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TT+QCi9LcxGTjBssH7S7n5+8DVcwfG4DYgXX7Dk7+BfZ4oVHj8Q0CbYk9glzAlHLsSt3bYzol+fOdra2iu6GOw==",
+      "path": "microsoft.netcore.platforms/2.1.0",
+      "hashPath": "microsoft.netcore.platforms.2.1.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Targets/2.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-etaYwrLZQUS+b3UWTpCnUggd6SQ/ZIkZ5pHnoR7+dIWt/wp2Rv3CvMKOZISsrt7FYCHKwCxfcepuuyEWkQxADg==",
+      "path": "microsoft.netcore.targets/2.1.0",
+      "hashPath": "microsoft.netcore.targets.2.1.0.nupkg.sha512"
+    },
+    "MySql.Data/8.0.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-I2jGfuyeomrGJ+N9O+vuV2ucyeayf/tMFREKPdjUcs1/wUF0t+WgUnnzJmJl4sNePNR1fEvAGaGbVAo4uLSF2A==",
+      "path": "mysql.data/8.0.12",
+      "hashPath": "mysql.data.8.0.12.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "System.Configuration.ConfigurationManager/4.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LoSjM/kLDpyLyoGsmwS5oVMRzHf/0XHkRpr3QZu/HuAv6Sfk919usTMLqD9N9VK3S4Q2+bd3tKJ0ko4MYFfq4Q==",
+      "path": "system.configuration.configurationmanager/4.4.1",
+      "hashPath": "system.configuration.configurationmanager.4.4.1.nupkg.sha512"
+    },
+    "System.Security.Cryptography.ProtectedData/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WwEexvBd+17yfY7fcS+fBGl+HADEfCJuKeDJqBT7D6j6vKwYvfLyGuq2y/MmrKORC6mbYwth7kjinO1mPhTL3g==",
+      "path": "system.security.cryptography.protecteddata/4.4.0",
+      "hashPath": "system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+    },
+    "Common.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Common.DAL.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Common.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "log4net/2.0.9": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RemoteNotes.Core.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RemoteNotes.Core.BLL.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RemoteNotes.Core.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RemoteNotes.DAL.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RemoteNotes.DAL.MySql/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RemoteNotes.Service.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RemoteNotes.Service.DTO.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RemoteNotes.Service.DTO.Transform.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\XNotes\labs\MySql\src\Notes.DAL\Common.DAL\bin\Debug\netcoreapp2.0\Common.DAL.deps.json
+C:\XNotes\labs\MySql\src\Notes.DAL\Common.DAL\bin\Debug\netcoreapp2.0\Common.DAL.dll
+C:\XNotes\labs\MySql\src\Notes.DAL\Common.DAL\bin\Debug\netcoreapp2.0\Common.DAL.pdb
+C:\XNotes\labs\MySql\src\Notes.DAL\Common.DAL\bin\Debug\netcoreapp2.0\Common.Core.dll
+C:\XNotes\labs\MySql\src\Notes.DAL\Common.DAL\bin\Debug\netcoreapp2.0\Common.DAL.Contract.dll
+C:\XNotes\labs\MySql\src\Notes.DAL\Common.DAL\bin\Debug\netcoreapp2.0\Common.DAL.Contract.pdb
+C:\XNotes\labs\MySql\src\Notes.DAL\Common.DAL\bin\Debug\netcoreapp2.0\Common.Core.pdb
+C:\XNotes\labs\MySql\src\Notes.DAL\Common.DAL\obj\Debug\netcoreapp2.0\Common.DAL.csproj.CoreCompileInputs.cache
+C:\XNotes\labs\MySql\src\Notes.DAL\Common.DAL\obj\Debug\netcoreapp2.0\Common.DAL.AssemblyInfoInputs.cache
+C:\XNotes\labs\MySql\src\Notes.DAL\Common.DAL\obj\Debug\netcoreapp2.0\Common.DAL.AssemblyInfo.cs
+C:\XNotes\labs\MySql\src\Notes.DAL\Common.DAL\obj\Debug\netcoreapp2.0\Common.DAL.dll
+C:\XNotes\labs\MySql\src\Notes.DAL\Common.DAL\obj\Debug\netcoreapp2.0\Common.DAL.pdb
+C:\XNotes\labs\MySql\src\Notes.DAL\Common.DAL\obj\Debug\netcoreapp2.0\Common.DAL.csprojResolveAssemblyReference.cache

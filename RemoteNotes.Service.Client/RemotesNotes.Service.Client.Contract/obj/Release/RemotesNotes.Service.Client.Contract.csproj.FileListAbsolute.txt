@@ -1,0 +1,9 @@
+C:\XRemoteNotes\src\RemoteNotes.Service.Client\RemotesNotes.Service.Client.Contract\bin\Release\RemotesNotes.Service.Client.Contract.dll
+C:\XRemoteNotes\src\RemoteNotes.Service.Client\RemotesNotes.Service.Client.Contract\bin\Release\RemotesNotes.Service.Client.Contract.pdb
+C:\XRemoteNotes\src\RemoteNotes.Service.Client\RemotesNotes.Service.Client.Contract\bin\Release\RemoteNotes.Service.DTO.dll
+C:\XRemoteNotes\src\RemoteNotes.Service.Client\RemotesNotes.Service.Client.Contract\bin\Release\RemoteNotes.Service.DTO.pdb
+C:\XRemoteNotes\src\RemoteNotes.Service.Client\RemotesNotes.Service.Client.Contract\obj\Release\RemotesNotes.Service.Client.Contract.csproj.CoreCompileInputs.cache
+C:\XRemoteNotes\src\RemoteNotes.Service.Client\RemotesNotes.Service.Client.Contract\obj\Release\RemotesNotes.Service.Client.Contract.dll
+C:\XRemoteNotes\src\RemoteNotes.Service.Client\RemotesNotes.Service.Client.Contract\obj\Release\RemotesNotes.Service.Client.Contract.pdb
+C:\XRemoteNotes\src\RemoteNotes.Service.Client\RemotesNotes.Service.Client.Contract\obj\Release\RemotesNotes.Service.Client.Contract.csprojAssemblyReference.cache
+C:\XRemoteNotes\src\RemoteNotes.Service.Client\RemotesNotes.Service.Client.Contract\obj\Release\RemotesNotes.Service.Client.Contract.csproj.CopyComplete

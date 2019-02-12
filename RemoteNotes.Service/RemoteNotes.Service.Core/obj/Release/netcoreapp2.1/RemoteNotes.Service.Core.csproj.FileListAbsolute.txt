@@ -1,0 +1,15 @@
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.Core\obj\Release\netcoreapp2.1\RemoteNotes.Service.Core.csproj.CoreCompileInputs.cache
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.Core\obj\Release\netcoreapp2.1\RemoteNotes.Service.Core.AssemblyInfoInputs.cache
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.Core\obj\Release\netcoreapp2.1\RemoteNotes.Service.Core.AssemblyInfo.cs
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.Core\bin\Release\netcoreapp2.1\RemoteNotes.Service.Core.deps.json
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.Core\bin\Release\netcoreapp2.1\RemoteNotes.Service.Core.dll
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.Core\bin\Release\netcoreapp2.1\RemoteNotes.Service.Core.runtimeconfig.json
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.Core\bin\Release\netcoreapp2.1\RemoteNotes.Service.Core.runtimeconfig.dev.json
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.Core\bin\Release\netcoreapp2.1\RemoteNotes.Service.Core.pdb
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.Core\obj\Release\netcoreapp2.1\RemoteNotes.Service.Core.dll
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.Core\obj\Release\netcoreapp2.1\RemoteNotes.Service.Core.pdb
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.Core\obj\Release\netcoreapp2.1\RemoteNotes.Service.Core.csprojResolveAssemblyReference.cache
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.Core\bin\Release\netcoreapp2.1\RemoteNotes.Service.DTO.Core.dll
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.Core\bin\Release\netcoreapp2.1\RemoteNotes.Service.DTO.dll
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.Core\bin\Release\netcoreapp2.1\RemoteNotes.Service.DTO.Core.pdb
+C:\XRemoteNotes\src\RemoteNotes.Service\RemoteNotes.Service.Core\bin\Release\netcoreapp2.1\RemoteNotes.Service.DTO.pdb

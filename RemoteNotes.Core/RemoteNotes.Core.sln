@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteNotes.Core.Rule.Contract", "RemoteNotes.Core.Rule.Contract\RemoteNotes.Core.Rule.Contract.csproj", "{E254E751-1E25-4090-913A-93DC8F09CBDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteNotes.Core.Domain.Enum", "RemoteNotes.Core.Domain.Enum\RemoteNotes.Core.Domain.Enum.csproj", "{5EA1C8E2-E086-40DE-9D4E-F1C1CB164B23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteNotes.Core.Rule", "RemoteNotes.Core.Rule\RemoteNotes.Core.Rule.csproj", "{97A10E53-28E2-4EBB-BB43-4520E082ECCB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoteNotes.Core.BLL", "RemoteNotes.Core.BLL\RemoteNotes.Core.BLL.csproj", "{54EF6292-1AF5-4AB8-A229-211BF14809FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoteNotes.Core.BLL.Contract", "RemoteNotes.Core.BLL.Contract\RemoteNotes.Core.BLL.Contract.csproj", "{3B97557E-ADAB-4FD8-9BC1-B00DAF259EFB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoteNotes.Core.Domain", "RemoteNotes.Core.Domain\RemoteNotes.Core.Domain.csproj", "{889175A0-127F-499B-A224-68E485AAE980}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RemoteNotes.DAL", "RemoteNotes.DAL", "{8CDDB5A5-C281-4991-9B79-5F0F07707606}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoteNotes.DAL.Contract", "..\RemoteNotes.DAL\RemoteNotes.DAL.Contract\RemoteNotes.DAL.Contract.csproj", "{631AC90E-A79F-4BA1-9AA8-8CA9134186AC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common.DAL", "Common.DAL", "{A16E0B75-FFC4-4096-96EE-41CABFDC3DD6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common.DAL.Contract", "..\RemoteNotes.DAL\Common.DAL.Contract\Common.DAL.Contract.csproj", "{1CC7A05D-59DA-449D-BD4B-6EF2A0E513A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Domain", "Common.Domain\Common.Domain.csproj", "{C8AA1CB5-BDDA-44D5-A8C2-BCE553744D49}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{594BB5CB-7A61-4E91-8E92-B580E9E2B86F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E254E751-1E25-4090-913A-93DC8F09CBDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E254E751-1E25-4090-913A-93DC8F09CBDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E254E751-1E25-4090-913A-93DC8F09CBDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E254E751-1E25-4090-913A-93DC8F09CBDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EA1C8E2-E086-40DE-9D4E-F1C1CB164B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA1C8E2-E086-40DE-9D4E-F1C1CB164B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA1C8E2-E086-40DE-9D4E-F1C1CB164B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA1C8E2-E086-40DE-9D4E-F1C1CB164B23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97A10E53-28E2-4EBB-BB43-4520E082ECCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A10E53-28E2-4EBB-BB43-4520E082ECCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A10E53-28E2-4EBB-BB43-4520E082ECCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A10E53-28E2-4EBB-BB43-4520E082ECCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54EF6292-1AF5-4AB8-A229-211BF14809FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54EF6292-1AF5-4AB8-A229-211BF14809FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54EF6292-1AF5-4AB8-A229-211BF14809FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54EF6292-1AF5-4AB8-A229-211BF14809FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B97557E-ADAB-4FD8-9BC1-B00DAF259EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B97557E-ADAB-4FD8-9BC1-B00DAF259EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B97557E-ADAB-4FD8-9BC1-B00DAF259EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B97557E-ADAB-4FD8-9BC1-B00DAF259EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889175A0-127F-499B-A224-68E485AAE980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889175A0-127F-499B-A224-68E485AAE980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889175A0-127F-499B-A224-68E485AAE980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889175A0-127F-499B-A224-68E485AAE980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{631AC90E-A79F-4BA1-9AA8-8CA9134186AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{631AC90E-A79F-4BA1-9AA8-8CA9134186AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{631AC90E-A79F-4BA1-9AA8-8CA9134186AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{631AC90E-A79F-4BA1-9AA8-8CA9134186AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CC7A05D-59DA-449D-BD4B-6EF2A0E513A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CC7A05D-59DA-449D-BD4B-6EF2A0E513A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CC7A05D-59DA-449D-BD4B-6EF2A0E513A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CC7A05D-59DA-449D-BD4B-6EF2A0E513A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8AA1CB5-BDDA-44D5-A8C2-BCE553744D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8AA1CB5-BDDA-44D5-A8C2-BCE553744D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8AA1CB5-BDDA-44D5-A8C2-BCE553744D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8AA1CB5-BDDA-44D5-A8C2-BCE553744D49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{631AC90E-A79F-4BA1-9AA8-8CA9134186AC} = {8CDDB5A5-C281-4991-9B79-5F0F07707606}
+		{1CC7A05D-59DA-449D-BD4B-6EF2A0E513A0} = {A16E0B75-FFC4-4096-96EE-41CABFDC3DD6}
+		{C8AA1CB5-BDDA-44D5-A8C2-BCE553744D49} = {594BB5CB-7A61-4E91-8E92-B580E9E2B86F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFA7AC02-DD6F-42E9-A6FA-BF5A915DB3B6}
+	EndGlobalSection
+EndGlobal

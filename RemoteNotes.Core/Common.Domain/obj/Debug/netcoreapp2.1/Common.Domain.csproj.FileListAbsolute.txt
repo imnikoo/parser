@@ -1,0 +1,17 @@
+C:\XRemoteNotes\src\RemoteNotes.Core\Common.Domain\bin\Debug\netcoreapp2.1\Common.Domain.deps.json
+C:\XRemoteNotes\src\RemoteNotes.Core\Common.Domain\bin\Debug\netcoreapp2.1\Common.Domain.dll
+C:\XRemoteNotes\src\RemoteNotes.Core\Common.Domain\bin\Debug\netcoreapp2.1\Common.Domain.pdb
+C:\XRemoteNotes\src\RemoteNotes.Core\Common.Domain\obj\Debug\netcoreapp2.1\Common.Domain.csproj.CoreCompileInputs.cache
+C:\XRemoteNotes\src\RemoteNotes.Core\Common.Domain\obj\Debug\netcoreapp2.1\Common.Domain.AssemblyInfoInputs.cache
+C:\XRemoteNotes\src\RemoteNotes.Core\Common.Domain\obj\Debug\netcoreapp2.1\Common.Domain.AssemblyInfo.cs
+C:\XRemoteNotes\src\RemoteNotes.Core\Common.Domain\obj\Debug\netcoreapp2.1\Common.Domain.dll
+C:\XRemoteNotes\src\RemoteNotes.Core\Common.Domain\obj\Debug\netcoreapp2.1\Common.Domain.pdb
+C:\University\DIploma2018\ProjectX\RemoteNotes.Core\Common.Domain\bin\Debug\netcoreapp2.1\Common.Domain.deps.json
+C:\University\DIploma2018\ProjectX\RemoteNotes.Core\Common.Domain\bin\Debug\netcoreapp2.1\Common.Domain.dll
+C:\University\DIploma2018\ProjectX\RemoteNotes.Core\Common.Domain\bin\Debug\netcoreapp2.1\Common.Domain.pdb
+C:\University\DIploma2018\ProjectX\RemoteNotes.Core\Common.Domain\obj\Debug\netcoreapp2.1\Common.Domain.csprojAssemblyReference.cache
+C:\University\DIploma2018\ProjectX\RemoteNotes.Core\Common.Domain\obj\Debug\netcoreapp2.1\Common.Domain.csproj.CoreCompileInputs.cache
+C:\University\DIploma2018\ProjectX\RemoteNotes.Core\Common.Domain\obj\Debug\netcoreapp2.1\Common.Domain.AssemblyInfoInputs.cache
+C:\University\DIploma2018\ProjectX\RemoteNotes.Core\Common.Domain\obj\Debug\netcoreapp2.1\Common.Domain.AssemblyInfo.cs
+C:\University\DIploma2018\ProjectX\RemoteNotes.Core\Common.Domain\obj\Debug\netcoreapp2.1\Common.Domain.dll
+C:\University\DIploma2018\ProjectX\RemoteNotes.Core\Common.Domain\obj\Debug\netcoreapp2.1\Common.Domain.pdb

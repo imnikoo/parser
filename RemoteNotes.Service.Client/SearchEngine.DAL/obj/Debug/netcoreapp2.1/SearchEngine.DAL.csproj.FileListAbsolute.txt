@@ -1,0 +1,12 @@
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\SearchEngine.DAL\bin\Debug\netcoreapp2.1\SearchEngine.DAL.deps.json
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\SearchEngine.DAL\bin\Debug\netcoreapp2.1\SearchEngine.DAL.dll
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\SearchEngine.DAL\obj\Debug\netcoreapp2.1\SearchEngine.DAL.csproj.CoreCompileInputs.cache
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\SearchEngine.DAL\obj\Debug\netcoreapp2.1\SearchEngine.DAL.AssemblyInfoInputs.cache
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\SearchEngine.DAL\obj\Debug\netcoreapp2.1\SearchEngine.DAL.AssemblyInfo.cs
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\SearchEngine.DAL\bin\Debug\netcoreapp2.1\SearchEngine.Domain.dll
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\SearchEngine.DAL\obj\Debug\netcoreapp2.1\SearchEngine.DAL.csprojAssemblyReference.cache
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\SearchEngine.DAL\bin\Debug\netcoreapp2.1\SearchEngine.DAL.pdb
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\SearchEngine.DAL\bin\Debug\netcoreapp2.1\SearchEngine.Domain.pdb
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\SearchEngine.DAL\obj\Debug\netcoreapp2.1\SearchEngine.DAL.csproj.CopyComplete
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\SearchEngine.DAL\obj\Debug\netcoreapp2.1\SearchEngine.DAL.dll
+C:\University\DIploma2018\ProjectX\RemoteNotes.Service.Client\SearchEngine.DAL\obj\Debug\netcoreapp2.1\SearchEngine.DAL.pdb
